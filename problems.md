@@ -1,19 +1,19 @@
 100 days :
-Two Sum - Easy
+Two Sum - Easy -DONE
 
-Reverse Integer - Easy
+Reverse Integer - Easy-DONE
 
-Valid Parentheses - Easy
+Valid Parentheses - Easy-DONE
 
-Merge Two Sorted Lists - Easy
+Merge Two Sorted Lists - Easy-DONE
 
-Maximum Subarray - Easy
+Maximum Subarray - Easy-DONE
 
-Climbing Stairs - Easy
+Climbing Stairs - Easy-DONE
 
-Linked List Cycle - Easy
+Linked List Cycle - Easy-DONE
 
-Implement Queue using Stacks - Easy
+Implement Queue using Stacks - Easy-DONE
 
 Min Stack - Easy
 
@@ -21,7 +21,7 @@ Valid Anagram - Easy
 
 Palindrome Linked List - Easy
 
-Intersection of Two Linked Lists - Easy
+Intersection of Two Linked Lists - Easy-DONE
 
 Plus One - Easy
 
@@ -29,7 +29,7 @@ Roman to Integer - Easy
 
 Longest Common Prefix - Easy
 
-Remove Duplicates from Sorted Array - Easy
+Remove Duplicates from Sorted Array - Easy-DONE
 
 Search Insert Position - Easy
 
@@ -55,7 +55,7 @@ Validate Binary Search Tree - Medium
 
 Unique Paths - Medium
 
-3Sum - Medium
+3Sum - Medium-DONE
 
 Word Search - Medium
 
