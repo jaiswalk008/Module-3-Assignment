@@ -1,0 +1,27 @@
+two sum
+revese integer
+merge sorted lists
+avalid parenthesis
+climbing stairs
+max subarray
+subsets
+ll cycle
+quque using stacks
+spiral matrix
+find peak element
+duplicate number
+single element in a sorted array
+remove duplicates
+combination sum
+number of zero-filled subarrays
+first missing positive
+3sum
+sort colors
+level order trraversal
+solved minstack
+merge intervals
+nqueens
+count sorted vowel strins'
+next greater element
+tile
+validate bst
